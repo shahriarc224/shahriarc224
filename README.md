@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md.Shahriar Chowdhury</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align='right' alt="coding" width="400" src="https://v1.pinimg.com/videos/iht/expMp4/c7/6d/97/c76d975b4a7ffd5f4052cd77f755583d_720w">
+<img align='right' alt="coding" width="400" src="[https://v1.pinimg.com/videos/iht/expMp4/c7/6d/97/c76d975b4a7ffd5f4052cd77f755583d_720w](https://github.com/shahriarc224/shahriarc224/blob/main/sweet_girl.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarc224&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarc224" /> </p>
 
