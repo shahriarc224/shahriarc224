@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md.Shahriar Chowdhury</h1>
 <h3 align="center">A passionate full stack  developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/shahriarc224/shahriarc224/raw/main/sweet_girl.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/shahriarc224/shahriarc224/blob/main/Blade%20runner%20.mp4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarc224&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarc224" /> </p>  
 
