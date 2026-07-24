@@ -5,7 +5,7 @@
 
 <!--img align="right" alt="coding" width="400" src="https://github.com/shahriarc224/shahriarc224/blob/main/sweet_girl.gif"-->
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarc224&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarc224" /> </p>    <!-- Live Preview  -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarc224&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarc224" /> </p>    <!-- Live Profile view  -->
 
 
 <h3 align="left">Connect with me:</h3>
