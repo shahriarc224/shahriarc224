@@ -54,11 +54,11 @@
 <table>
   <tr>
     <td style="border: none; width: 50%; text-align: center; padding: 10px;">
-      <img src="https://raw.githubusercontent.com/shahriarc224/shahriarc224/main/robotech-olympiad.jpg" alt="Robotech Olympiad" width="250" style="border-radius: 10px;"/>
+      <img src="https://github.com/shahriarc224/shahriarc224/blob/main/images/2nd%20runner%20up%20in%205th%20international%20robotech%20olympiad.jpg" alt="Robotech Olympiad" width="250" style="border-radius: 10px;"/>
       <p align="center"><strong>🥈 2nd Runner-Up — 5th International Robotech Olympiad</strong></p>
     </td>
     <td style="border: none; width: 50%; text-align: center; padding: 10px;">
-      <img src="https://raw.githubusercontent.com/shahriarc224/shahriarc224/main/robotics-championship-2025.jpg" alt="Robotics Championship 2025" width="250" style="border-radius: 10px;"/>
+      <img src="https://github.com/shahriarc224/shahriarc224/blob/main/images/3rd%20runner%20up%20in%20international%20robotics%20championship%202025.jpg" alt="Robotics Championship 2025" width="250" style="border-radius: 10px;"/>
       <p align="center"><strong>🥉 3rd Runner-Up — International Robotics Championship 2025</strong></p>
     </td>
   </tr>
