@@ -29,6 +29,27 @@
   <a href="https://www.hackerrank.com/profile/shahriarc224" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
+<h3 align="left">About Me:</h3>
+<table>
+  <tr>
+    <td style="border: none; width: 60%; padding-right: 20px;">
+      <h2>👋 Hi, I'm Md. Shahriar Chowdhury</h2>
+      <ul style="list-style-type: none; padding: 0; font-size: 16px;">
+        <li>💻 Full Stack Developer</li>
+        <li>🎓 Computer Science & Engineering Student</li>
+        <li>🚀 Passionate about building scalable and impactful applications</li>
+        <li>🧠 Curious about coding, technology, and continuous learning</li>
+        <li>🤖 Exploring Artificial Intelligence and modern software development</li>
+        <li>🏆 Multiple Project Showcase Competition Winner with Team BUBT</li>
+        <li>🌱 Always learning. Always building. Always improving.</li>
+      </ul>
+    </td>
+    <td style="border: none; width: 40%; text-align: center; vertical-align: middle;">
+      <img src="https://raw.githubusercontent.com/shahriarc224/shahriarc224/main/sweet_girl.gif" alt="Coding Animation" width="300"/>
+    </td>
+  </tr>
+</table>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarc224&show_icons=true&locale=en&layout=compact" alt="shahriarc224" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarc224&" alt="shahriarc224" /></p>
