@@ -103,14 +103,13 @@
 
 <p align="center">
 <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=csakib049&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shahriarc224&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=csakib049&theme=tokyo-day" width="70%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriarc224&theme=tokyo-day" width="70%" />
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarc224&show_icons=true&locale=en&layout=compact" alt="shahriarc224" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarc224&" alt="shahriarc224" /></p>
