@@ -98,7 +98,7 @@
 <!-- Contribution Statistics and Visuals -->
 
 
-<h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
+<h1 align="left"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
 
 
 <p align="center">
