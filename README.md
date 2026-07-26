@@ -54,11 +54,11 @@
 <table>
   <tr>
     <td style="border: none; width: 50%; text-align: center; padding: 10px;">
-      <img src="https://github.com/shahriarc224/shahriarc224/blob/main/images/2nd%20runner%20up%20in%205th%20international%20robotech%20olympiad.jpg" alt="Robotech Olympiad" width="250" style="border-radius: 10px;"/>
+      <p align="center"><img src="https://github.com/shahriarc224/shahriarc224/blob/main/images/2nd%20runner%20up%20in%205th%20international%20robotech%20olympiad.jpg" alt="Robotech Olympiad" width="250" style="border-radius: 10px;"/></p>
       <p align="center"><strong>🥈 2nd Runner-Up — 5th International Robotech Olympiad</strong></p>
     </td>
     <td style="border: none; width: 50%; text-align: center; padding: 10px;">
-      <img src="https://github.com/shahriarc224/shahriarc224/blob/main/images/3rd%20runner%20up%20in%20international%20robotics%20championship%202025.jpg" alt="Robotics Championship 2025" width="250" style="border-radius: 10px;"/>
+      <p align="center"><img src="https://github.com/shahriarc224/shahriarc224/blob/main/images/3rd%20runner%20up%20in%20international%20robotics%20championship%202025.jpg" alt="Robotics Championship 2025" width="250" style="border-radius: 10px;"/></p>
       <p align="center"><strong>🥉 3rd Runner-Up — International Robotics Championship 2025</strong></p>
     </td>
   </tr>
@@ -68,20 +68,26 @@
 <table>
   <tr>
     <td style="border: none; width: 50%; text-align: center; padding: 10px;">
-      <img src="https://github.com/shahriarc224/shahriarc224/blob/main/images/Somokal.png" alt="Somokal" width="250" style="border-radius: 10px;"/>
+      <img src="https://github.com/shahriarc224/shahriarc224/blob/main/images/Somokal.png" alt="Somokal" width="250" style="border-radius: 10px; width:250px; height:320px; object-fit:cover;"/>
       <p align="center"><strong>Somokal</strong></p>
     </td>
     <td style="border: none; width: 50%; text-align: center; padding: 10px;">
-      <img src="https://github.com/shahriarc224/shahriarc224/blob/main/images/Ajker%20potrika.png" alt="Ajker Potrika" width="250" style="border-radius: 10px;"/>
+      <img src="https://github.com/shahriarc224/shahriarc224/blob/main/images/Ajker%20potrika.png" alt="Ajker Potrika" width="250" style="border-radius: 10px; width:250px; height:320px; object-fit:cover;"/>
       <p align="center"><strong>Ajker Potrika</strong></p>
     </td>
-   <td style="border: none; width: 50%; text-align: center; padding: 10px;">
-      <img src="https://github.com/shahriarc224/shahriarc224/blob/main/images/kal%20bela.png" alt="Kal Bela" width="250" style="border-radius: 10px;"/>
+    <td style="border: none; width: 50%; text-align: center; padding: 10px;">
+      <img src="https://github.com/shahriarc224/shahriarc224/blob/main/images/kal%20bela.png" alt="Kal Bela" width="250" style="border-radius: 10px; width:250px; height:320px; object-fit:cover;"/>
       <p align="center"><strong>Ajker Potrika</strong></p>
     </td>
    
   </tr>
 </table>
+
+<h3 align="left">📄 Paper Links</h3>
+<p align="center">
+📄 <a href="https://samakal.com/education/article/301784">Samakal</a><br>
+📄 <a href="https://www.ajkerpatrika.com/education/campus/ajporgtyihtp9">Ajker Patrika</a>
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarc224&show_icons=true&locale=en&layout=compact" alt="shahriarc224" /></p>
 
