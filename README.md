@@ -72,7 +72,7 @@
       <p align="center"><strong>Somokal</strong></p>
     </td>
     <td style="border: none; width: 50%; text-align: center; padding: 10px;">
-      <img src="https://raw.githubusercontent.com/shahriarc224/shahriarc224/main/Ajker%20potrika.png" alt="Ajker Potrika" width="250" style="border-radius: 10px;"/>
+      <img src="https://github.com/shahriarc224/shahriarc224/blob/main/images/Ajker%20potrika.png" alt="Ajker Potrika" width="250" style="border-radius: 10px;"/>
       <p align="center"><strong>Ajker Potrika</strong></p>
     </td>
   </tr>
