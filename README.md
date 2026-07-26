@@ -50,6 +50,20 @@
   </tr>
 </table>
 
+<h3 align="left">🏆 Achievements</h3>
+<table>
+  <tr>
+    <td style="border: none; width: 50%; text-align: center; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/shahriarc224/shahriarc224/main/robotech-olympiad.jpg" alt="Robotech Olympiad" width="250" style="border-radius: 10px;"/>
+      <p align="center"><strong>🥈 2nd Runner-Up — 5th International Robotech Olympiad</strong></p>
+    </td>
+    <td style="border: none; width: 50%; text-align: center; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/shahriarc224/shahriarc224/main/robotics-championship-2025.jpg" alt="Robotics Championship 2025" width="250" style="border-radius: 10px;"/>
+      <p align="center"><strong>🥉 3rd Runner-Up — International Robotics Championship 2025</strong></p>
+    </td>
+  </tr>
+</table>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarc224&show_icons=true&locale=en&layout=compact" alt="shahriarc224" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarc224&" alt="shahriarc224" /></p>
