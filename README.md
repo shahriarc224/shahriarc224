@@ -77,7 +77,7 @@
     </td>
    <td style="border: none; width: 50%; text-align: center; padding: 10px;">
       <img src="https://github.com/shahriarc224/shahriarc224/blob/main/images/kal%20bela.png" alt="Kal Bela" width="250" style="border-radius: 10px;"/>
-      <p align="center"><strong>Ajker Potrika</strong></p>
+      <p align="center"><strong>Kal Bela</strong></p>
     </td>
    
   </tr>
