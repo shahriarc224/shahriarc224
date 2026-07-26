@@ -68,7 +68,7 @@
 <table>
   <tr>
     <td style="border: none; width: 50%; text-align: center; padding: 10px;">
-      <img src="https://raw.githubusercontent.com/shahriarc224/shahriarc224/main/Somokal.png" alt="Somokal" width="250" style="border-radius: 10px;"/>
+      <img src="https://github.com/shahriarc224/shahriarc224/blob/main/images/Somokal.png" alt="Somokal" width="250" style="border-radius: 10px;"/>
       <p align="center"><strong>Somokal</strong></p>
     </td>
     <td style="border: none; width: 50%; text-align: center; padding: 10px;">
