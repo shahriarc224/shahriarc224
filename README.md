@@ -50,7 +50,9 @@
   </tr>
 </table>
 
-                       <!-- Achivements  -->
+
+ 
+ <!-- Achivements  -->
 
 <h3 align="left">🏆 Achievements</h3>
 <table>
@@ -67,7 +69,7 @@
 </table>
 
 
-                        <!-- Media -->
+<!-- Media -->
 
 <h3 align="left">📰 Media</h3>
 <table>
@@ -100,21 +102,20 @@
 
 
 
-<!-- Contribution Statistics and Visuals -->
+                               <!-- Contribution Statistics and Visuals -->
 
 
 <h1 align="left"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
 
 
 <p align="center">
-<img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shahriarc224&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
-<img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
+<img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">                    <!-- Doctor strange  -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shahriarc224&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />  <!-- Contriution Statistics  -->
+<img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">                 <!-- Doctor strange  -->
 </p>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriarc224&theme=tokyo-day" width="70%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriarc224&theme=tokyo-day" width="70%" />       <!-- Graph visuals  -->
 </p>
 
 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarc224&" alt="shahriarc224" /></p>  -->
