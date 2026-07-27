@@ -58,7 +58,7 @@
       </ul>
     </td>
     <td style="border: none; width: 40%; text-align: center; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/shahriarc224/shahriarc224/main/sweet_girl.gif" alt="Coding Animation" width="300"/>  <!-- Animae Gif -->
+      <img src="https://github.com/shahriarc224/shahriarc224/blob/main/Banner%20and%20gif%20/sweet_girl.gif" alt="Coding Animation" width="300"/>  <!-- Animae Gif -->
     </td>
   </tr>
 </table>
