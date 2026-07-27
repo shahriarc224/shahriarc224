@@ -1,4 +1,4 @@
-![logo](https://github.com/shahriarc224/shahriarc224/blob/main/purple%20city.png)  
+![logo](https://github.com/shahriarc224/shahriarc224/blob/main/Banner%20and%20gif%20/purple%20city.png)  
 
 <h1 align="center">Hi 👋, I'm Md. Shahriar Chowdhury</h1>
 <h3 align="center">Full Stack Developer from Bangladesh, passionate about building impactful applications and constantly exploring the ever-evolving world of technology.</h3>
