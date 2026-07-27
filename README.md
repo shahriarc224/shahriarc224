@@ -102,8 +102,9 @@
 
 
 
-                               <!-- Contribution Statistics and Visuals -->
 
+ <!-- Contribution Statistics and Visuals -->
+ 
 
 <h1 align="left"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
 
