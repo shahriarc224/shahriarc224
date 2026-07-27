@@ -50,7 +50,7 @@
   </tr>
 </table>
 
-<!-- Achivements  -->
+                       <!-- Achivements  -->
 
 <h3 align="left">🏆 Achievements</h3>
 <table>
@@ -67,7 +67,7 @@
 </table>
 
 
-
+                        <!-- Media -->
 
 <h3 align="left">📰 Media</h3>
 <table>
