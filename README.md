@@ -131,6 +131,8 @@
 </p>
 
 
+ <!-- Galaxy Banner  -->
+
 <p align="center">
-  <img width="100%" src="https://github.com/shahriarc224/shahriarc224/blob/main/Banner%20and%20gif%20/%20quote%20banner.png"/>
+  <img width="100%" src="https://github.com/shahriarc224/shahriarc224/blob/main/Banner%20and%20gif%20/galaxy%20banner%20.png"/>
 </p>
