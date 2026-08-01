@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="8" viewBox="0 0 1200 8" preserveAspectRatio="none">
+  <!-- Neon gradient rule: violet -> purple -> neon blue, with a soft glow halo -->
+  <defs>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="8" fill="url(#neon)" opacity="0.12"/>
+  <rect x="0" y="1.5" width="1200" height="5" fill="url(#neon)" opacity="0.3"/>
+  <rect x="0" y="3.5" width="1200" height="1" fill="url(#neon)"/>
+</svg>
