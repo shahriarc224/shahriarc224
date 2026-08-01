@@ -26,9 +26,9 @@
 
 
 <!-- ============================ HERO ============================ -->
-<img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-divider.svg" width="100%" height="8" alt="" />
+<img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-divider.svg" width="100%" height="8" alt="" >
 
-<h1 align="center">Hi 👋, I'm Md. Shahriar Chowdhury</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Md. Shahriar Chowdhury</h1>
 <h3 align="center">Full Stack Developer from Bangladesh, passionate about building impactful applications and constantly exploring the ever-evolving world of technology.</h3>
 
 
@@ -179,3 +179,44 @@
 </p>
 
 <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-divider.svg" width="100%" height="8" alt="" />
+
+
+
+
+<!--Mario-->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+
+
+<!--Dancing Cat-->
+<img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />
+
+
+
+<!--Skull Sipping on love brew-->
+<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
+
+
+
+
+<!--Skate in to twilite ride-->
+<img src="https://i.pinimg.com/originals/9a/c6/f0/9ac6f036c23d0be505da7a4259d98957.gif" alt="Banner" width="100%" />
+
+
+
+
+<!--Fading Line-->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
+
+
+<!--Gradient Line-->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
+
+
+
