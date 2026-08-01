@@ -109,8 +109,8 @@
   <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-vline.svg" alt="" width="3" height="225" />&nbsp;&nbsp;
   <img src="https://github.com/shahriarc224/shahriarc224/blob/main/Achivement%20and%20media%20images/3rd%20runner%20up%20in%20international%20robotics%20championship%202025.jpg" alt="Robotics Championship 2025" width="250" />
 </p>
-<p align="center"><strong>🥈 2nd Runner-Up — 5th International Robotech Olympiad</strong></p>
-<p align="center"><strong>🥉 3rd Runner-Up — International Robotics Championship 2025</strong></p>
+<p align="center"><strong>🥈 2nd Runner-Up — 5th International Robotech Olympiad    🥉 3rd Runner-Up — International Robotics Championship 2025</strong</strong></p>
+
 
 
 
@@ -137,7 +137,7 @@
 <!-- ======================== PAPER LINKS ======================== -->
 <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-divider.svg" width="100%" height="8" alt="" />
 
-<h3 align="left"><img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-marker.svg" width="14" height="14" alt="" /> 📄 Paper Links</h3>
+<h3 align="left"><img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-marker.svg" width="14" height="14" alt="" /> 📄 News Paper Links</h3>
 <p align="center">
 📄 <a href="https://samakal.com/education/article/301784">Samakal</a><br>
 📄 <a href="https://www.ajkerpatrika.com/education/campus/ajporgtyihtp9">Ajker Patrika</a>
