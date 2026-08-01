@@ -82,6 +82,7 @@
 <h3 align="left"><img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-marker.svg" width="14" height="14" alt="" /> 🏆 Achievements</h3>
 <p align="center">
   <img src="https://github.com/shahriarc224/shahriarc224/blob/main/Achivement%20and%20media%20images/2nd%20runner%20up%20in%205th%20international%20robotech%20olympiad.jpg" alt="Robotech Olympiad" width="250" />&nbsp;&nbsp;
+  <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-vline.svg" alt="" width="3" height="225" />&nbsp;&nbsp;
   <img src="https://github.com/shahriarc224/shahriarc224/blob/main/Achivement%20and%20media%20images/3rd%20runner%20up%20in%20international%20robotics%20championship%202025.jpg" alt="Robotics Championship 2025" width="250" />
 </p>
 <p align="center"><strong>🥈 2nd Runner-Up — 5th International Robotech Olympiad</strong></p>
@@ -93,7 +94,9 @@
 <h3 align="left"><img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-marker.svg" width="14" height="14" alt="" /> 📰 Media</h3>
 <p align="center">
   <img src="https://github.com/shahriarc224/shahriarc224/blob/main/Achivement%20and%20media%20images/Somokal.png" alt="Somokal" width="250" height="320" />&nbsp;&nbsp;
+  <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-vline.svg" alt="" width="3" height="288" />&nbsp;&nbsp;
   <img src="https://github.com/shahriarc224/shahriarc224/blob/main/Achivement%20and%20media%20images/Ajker%20potrika.png" alt="Ajker Potrika" width="250" height="320" />&nbsp;&nbsp;
+  <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-vline.svg" alt="" width="3" height="288" />&nbsp;&nbsp;
   <img src="https://github.com/shahriarc224/shahriarc224/blob/main/Achivement%20and%20media%20images/kal%20bela.png" alt="Kal Bela" width="250" />
 </p>
 <p align="center">
