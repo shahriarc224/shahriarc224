@@ -16,8 +16,14 @@
     Highlight   #60A5FA  (neon blue)
   ==================================================================== -->
 
+
+
+
 <!-- ========================= TOP BANNER ========================= -->
 <img src="https://github.com/shahriarc224/shahriarc224/blob/main/Banner%20and%20gif%20/Top%20banner.png" width="100%" alt="logo" />
+
+
+
 
 <!-- ============================ HERO ============================ -->
 <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-divider.svg" width="100%" height="8" alt="" />
@@ -25,9 +31,16 @@
 <h1 align="center">Hi 👋, I'm Md. Shahriar Chowdhury</h1>
 <h3 align="center">Full Stack Developer from Bangladesh, passionate about building impactful applications and constantly exploring the ever-evolving world of technology.</h3>
 
+
+
+
 <!--img align="right" alt="coding" width="400" src="https://github.com/shahriarc224/shahriarc224/blob/main/sweet_girl.gif"-->
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shahriarc224&label=Profile%20views&color=A855F7&labelColor=0d1117&style=flat" alt="shahriarc224" /></p>   <!-- Live Profile views -->
+
+
+
+
 
 <!-- ===================== CONNECT WITH ME ===================== -->
 <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-divider.svg" width="100%" height="8" alt="" />
@@ -40,11 +53,17 @@
 <a href="https://discord.gg/your-invite" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
+
+
+
+
 <!-- ==================== LANGUAGES & TOOLS ==================== -->
 <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-divider.svg" width="100%" height="8" alt="" />
 
 <h3 align="left"><img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-marker.svg" width="14" height="14" alt="" /> Languages and Tools:</h3>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+
 
 <!-- ===================== CODING PROFILES ===================== -->
 <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-divider.svg" width="100%" height="8" alt="" />
@@ -57,6 +76,8 @@
   <a href="https://judge.beecrowd.com/en/profile/936511" target="_blank"><img src="https://img.shields.io/badge/BeeCrowd-8B5CF6?style=for-the-badge&logoColor=white" alt="BeeCrowd"/></a>&nbsp;
   <a href="https://www.hackerrank.com/profile/shahriarc224" target="_blank"><img src="https://img.shields.io/badge/HackerRank-A855F7?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
+
+
 
 <!-- ========================= ABOUT ME ========================= -->
 <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-divider.svg" width="100%" height="8" alt="" />
@@ -76,6 +97,9 @@
   </ul>
 </div>
 
+
+
+
 <!-- ======================= ACHIEVEMENTS ======================= -->
 <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-divider.svg" width="100%" height="8" alt="" />
 
@@ -88,6 +112,9 @@
 <p align="center"><strong>🥈 2nd Runner-Up — 5th International Robotech Olympiad</strong></p>
 <p align="center"><strong>🥉 3rd Runner-Up — International Robotics Championship 2025</strong></p>
 
+
+
+
 <!-- =========================== MEDIA =========================== -->
 <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-divider.svg" width="100%" height="8" alt="" />
 
@@ -99,11 +126,22 @@
   <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-vline.svg" alt="" width="3" height="288" />&nbsp;&nbsp;
   <img src="https://github.com/shahriarc224/shahriarc224/blob/main/Achivement%20and%20media%20images/kal%20bela.png" alt="Kal Bela" width="250" />
 </p>
+
+
+
+<p align="center"><strong>🥈 2nd Runner                                 -Up — 5th International Robotech Olympiad</strong></p>
+
+
+
+
 <p align="center">
   <strong>Somokal</strong>&nbsp;&nbsp;&nbsp;
   <strong>Ajker Potrika</strong>&nbsp;&nbsp;&nbsp;
   <strong>Kal bela</strong>
 </p>
+
+
+
 
 <!-- ======================== PAPER LINKS ======================== -->
 <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-divider.svg" width="100%" height="8" alt="" />
@@ -113,6 +151,9 @@
 📄 <a href="https://samakal.com/education/article/301784">Samakal</a><br>
 📄 <a href="https://www.ajkerpatrika.com/education/campus/ajporgtyihtp9">Ajker Patrika</a>
 </p>
+
+
+
 
 <!-- =================== GITHUB STATISTICS =================== -->
 <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-divider.svg" width="100%" height="8" alt="" />
@@ -128,10 +169,16 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriarc224&theme=tokyo-day" width="70%" />     <!-- Graph visuals -->
 </p>
 
+
+
+
 <!-- ===================== SNAKE ANIMATION ===================== -->
 <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-divider.svg" width="100%" height="8" alt="" />
 
 ![snake gif](https://github.com/shahriarc224/shahriarc224/blob/output/github-snake-dark.svg)
+
+
+
 
 <!-- ====================== GALAXY BANNER ====================== -->
 <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-divider.svg" width="100%" height="8" alt="" />
