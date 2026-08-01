@@ -123,7 +123,7 @@
 
 <p align="center">
 <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">                    <!-- Doctor strange gif-->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />                                                    <!-- Contriution Statistics  -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarc224&theme=aura&hide_border=true" width="50%" />                                                    <!-- Contriution Statistics  -->
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">                 <!-- Doctor strange gif -->
 </p>
 <p align="center">
