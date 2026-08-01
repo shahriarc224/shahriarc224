@@ -123,7 +123,7 @@
 
 <p align="center">
 <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">                    <!-- Doctor strange gif-->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shahriarc224&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />  <!-- Contriution Statistics  -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />                                                    <!-- Contriution Statistics  -->
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">                 <!-- Doctor strange gif -->
 </p>
 <p align="center">
@@ -134,15 +134,7 @@
 
 
 
-
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahriarc224&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarc224&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarc224&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-</div>
+ 
 
 
 
