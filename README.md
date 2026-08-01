@@ -128,12 +128,13 @@
 </p>
 
 
-<p align="center">
-  <strong>Somokal</strong>&nbsp;&nbsp;&nbsp;
-  <strong>Ajker Potrika</strong>&nbsp;&nbsp;&nbsp;
-  <strong>Kal bela</strong>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center"><strong>Somokal</strong></td>
+    <td align="center"><strong>Ajker Potrika</strong></td>
+    <td align="center"><strong>Kal Bela</strong></td>
+  </tr>
+</table>
 
 
 
