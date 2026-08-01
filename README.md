@@ -128,12 +128,6 @@
 </p>
 
 
-
-<p align="center"><strong>🥈 2nd Runner                                 -Up — 5th International Robotech Olympiad</strong></p>
-
-
-
-
 <p align="center">
   <strong>Somokal</strong>&nbsp;&nbsp;&nbsp;
   <strong>Ajker Potrika</strong>&nbsp;&nbsp;&nbsp;
