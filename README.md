@@ -157,7 +157,7 @@
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="130px" height="150px">    <!-- Doctor Strange gif -->
 </p>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriarc224&theme=tokyo-day" width="70%" />     <!-- Graph visuals -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriarc224&bg_color=0D1117&color=D8B4FE&line=A855F7&point=C084FC&area_color=8B5CF6&title_color=C084FC&hide_border=true&area=true" width="70%" />     <!-- Graph visuals -->
 </p>
 
 
