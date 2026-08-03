@@ -225,7 +225,7 @@
 
 <!--Dancing Cat-->
 
-  <img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />  
+<!--  <img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />  -->
 
 
 
@@ -237,7 +237,7 @@
 
 <!--Skate in to twilite ride-->
 
-<!-- <img src="https://i.pinimg.com/originals/9a/c6/f0/9ac6f036c23d0be505da7a4259d98957.gif" alt="Banner" width="100%" />      -->
+ <img src="https://i.pinimg.com/originals/9a/c6/f0/9ac6f036c23d0be505da7a4259d98957.gif" alt="Banner" width="100%" />      -->
 
 
 
