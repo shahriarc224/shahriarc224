@@ -9,6 +9,7 @@
     assets/neon-divider.svg  →  full-width neon gradient rule (border)
     assets/neon-marker.svg   →  neon accent mark before section titles
 
+
   Palette
     Background  #0d1117  (GitHub dark)
     Primary     #A855F7  (violet)
