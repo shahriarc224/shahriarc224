@@ -26,7 +26,7 @@
 <!-- ============================ HERO ============================ -->
 <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-divider.svg" width="100%" height="8" alt="" >
 
-<h1 align="center">Hellow <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Md. Shahriar Chowdhury</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Md. Shahriar Chowdhury</h1>
 <h3 align="center">Full Stack Developer from Bangladesh, passionate about building impactful applications and constantly exploring the ever-evolving world of technology.</h3>
 
 
