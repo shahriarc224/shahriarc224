@@ -1,5 +1,5 @@
 <!--  ====================================================================
-  MD. SHAHRIAR CHOWDHURY — CYBERPUNK PROFILE
+  MD.SHAHRIAR CHOWDHURY — CYBERPUNK PROFILE
   --------------------------------------------------------------------
   GitHub strips <style> blocks, classes and most inline CSS from
   README files, so this design uses ONLY whitelisted HTML attributes
