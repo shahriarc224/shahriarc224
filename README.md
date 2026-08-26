@@ -31,7 +31,6 @@
 
 
 
-
 <!--img align="right" alt="coding" width="400" src="https://github.com/shahriarc224/shahriarc224/blob/main/sweet_girl.gif"-->
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shahriarc224&label=Profile%20views&color=A855F7&labelColor=0d1117&style=flat" alt="shahriarc224" /></p>   <!-- Live Profile views -->
