@@ -2,7 +2,7 @@
   MD.SHAHRIAR CHOWDHURY — CYBERPUNK PROFILE
   --------------------------------------------------------------------
   GitHub strips <style> blocks, classes and most inline CSS from
-  README files, so this design uses ONLY whitelisted HTML attributes
+  README files,so this design uses ONLY whitelisted HTML attributes
   plus two tiny reusable SVG assets (committed in /assets) to build a
   consistent violet / neon "border" system.
 
