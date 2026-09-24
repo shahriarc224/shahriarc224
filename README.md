@@ -24,14 +24,13 @@
 <!-- ============================ HERO ============================ -->
 <img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-divider.svg" width="100%" height="8" alt="" >
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Md. Shahriar Chowdhury</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Md. Shahriar Chowdhury </h1>
 <h3 align="center">Full Stack Developer from Bangladesh, passionate about building impactful applications and constantly exploring the ever-evolving world of technology.</h3>
 
 
 <!--img align="right" alt="coding" width="400" src="https://github.com/shahriarc224/shahriarc224/blob/main/sweet_girl.gif"-->
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shahriarc224&label=Profile%20views&color=A855F7&labelColor=0d1117&style=flat" alt="shahriarc224" /></p>   <!-- Live Profile views -->
-
 
 
 <!-- ===================== CONNECT WITH ME ===================== -->
@@ -78,7 +77,7 @@
 
   
   <!--  <img src="https://github.com/shahriarc224/shahriarc224/blob/main/Banner%20and%20gif%20/sweet_girl.gif" alt="Coding Animation" align="right" width="300" />  -->   <!-- Animated Gif -->
-  <h2>👋 Hi, I'm Md. Shahriar Chowdhury</h2>
+  <h2>👋 Hi,I'm Md. Shahriar Chowdhury</h2>
   <ul>
     <li>💻 Full Stack Developer</li>
     <li>🎓 Computer Science &amp; Engineering Student</li>
@@ -89,8 +88,6 @@
     <li>🌱 Always learning. Always building. Always improving.</li>
   </ul>
 </div>
-
-
 
 
 <!-- ======================= ACHIEVEMENTS ======================= -->
