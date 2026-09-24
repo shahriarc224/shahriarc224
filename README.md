@@ -76,7 +76,9 @@
 
 <h3 align="left"><img src="https://github.com/shahriarc224/shahriarc224/blob/main/assets/neon-marker.svg" width="14" height="14" alt="" /> About Me:</h3>
 <div align="left">
-  <img src="https://github.com/shahriarc224/shahriarc224/blob/main/Banner%20and%20gif%20/sweet_girl.gif" alt="Coding Animation" align="right" width="300" />  <!-- Animated Gif -->
+
+  
+  <!--  <img src="https://github.com/shahriarc224/shahriarc224/blob/main/Banner%20and%20gif%20/sweet_girl.gif" alt="Coding Animation" align="right" width="300" />  -->   <!-- Animated Gif -->
   <h2>👋 Hi, I'm Md. Shahriar Chowdhury</h2>
   <ul>
     <li>💻 Full Stack Developer</li>
@@ -210,13 +212,13 @@
 
 
 <!--Mario-->
-<!--  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />  -->
 
+ <!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />  -->
 
 
 <!--Dancing Cat-->
 
-  <img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />  
+<!--  <img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />  -->
 
 
 
