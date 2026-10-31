@@ -16,8 +16,6 @@
     Highlight   #60A5FA  (neon blue)
     
   ================================================================== -->
-
-
   
 <!-- ========================= TOP BANNER ========================= -->
 <img src="https://github.com/shahriarc224/shahriarc224/blob/main/Banner%20and%20gif%20/Top%20banner.png" width="100%" alt="logo" />
